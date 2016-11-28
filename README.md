@@ -1,4 +1,4 @@
-Steps:
+Steps :
 
 * Ruby version
     

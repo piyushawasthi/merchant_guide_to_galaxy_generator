@@ -1,5 +1,5 @@
 class MerchantGuideToGalaxy
-  attr_accessor :line,:literals
+  attr_accessor :line, :literals
 
   def initialize(line)
     return if line.chomp == ""
